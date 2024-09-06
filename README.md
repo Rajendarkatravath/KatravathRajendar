@@ -94,6 +94,6 @@
 
 ## 📫 Reach Out:
 - **Email:** katravathrajendar18@gmail.com
-- **LinkedIn:** [Katravath Rajendar](https://www.linkedin.com/in/katravath-rajendar)
-- **GitHub:** [Rajendarkatravath](https://github.com/Raj
+- **LinkedIn:** [Katravath Rajendar](https://www.linkedin.com/in/rajendar-katravath-461b39216/)
+- **GitHub:** [Rajendarkatravath](https://github.com/Rajendarkatravath)
 
