@@ -14,46 +14,51 @@ I am experienced in working across various AI domains such as machine learning (
 ## 🚀 My Skills:
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+- [Python](https://www.python.org)
+- [R](https://www.r-project.org/)
+- [Java](https://www.java.com)
 
 ### Machine Learning & Deep Learning:
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=tensorflow)
-
-- **Techniques:** Regression, Classification, Clustering, Dimensionality Reduction, ANN, CNN, RNN, Transfer Learning
-- **Frameworks:** 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+- [Scikit-learn](https://scikit-learn.org/)
+- [OpenCV](https://opencv.org/)
+- [Roboflow](https://roboflow.com/)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Plotly](https://plotly.com/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [PyTorch](https://pytorch.org/)
 
 ### Natural Language Processing:
-![BERT](https://img.shields.io/badge/-BERT-333?style=flat&logo=bert)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FD2E51?style=flat&logo=huggingface)
-![NLTK](https://img.shields.io/badge/-NLTK-007396?style=flat&logo=python)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy)
+- [Hugging Face](https://huggingface.co/)
+- [NLTK](https://www.nltk.org/)
+- [spaCy](https://spacy.io/)
+- [Rasa](https://rasa.com/)
+- [Dialogflow](https://cloud.google.com/dialogflow)
 
 ### MLOps:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow)
-![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=dvc)
+- [Docker](https://www.docker.com/)
+- [Heroku](https://heroku.com/)
+- [Google Cloud (GCP)](https://cloud.google.com/)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
+- [Streamlit](https://streamlit.io/)
+- [Flask](https://flask.palletsprojects.com/)
+- [Django](https://www.djangoproject.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [DagsHub](https://dagshub.com/)
+- [Git](https://git-scm.com/)
+- [Airflow](https://airflow.apache.org/)
 
 ### Data Management:
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![FAISS](https://img.shields.io/badge/-FAISS-333?style=flat&logo=faiss)
+- [SQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [FAISS](https://faiss.ai/)
 
 ### Visualization:
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-
-## 📈 My GitHub Stats:
-![Rajendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajendarkatravath&show_icons=true&theme=radical)
-
-## 📊 Languages I Use:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajendarkatravath&layout=compact)
+- [Power BI](https://powerbi.microsoft.com/)
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ## 📈 My GitHub Stats:
 ![Rajendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajendarkatravath&show_icons=true&theme=radical)
