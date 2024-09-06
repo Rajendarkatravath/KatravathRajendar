@@ -14,46 +14,46 @@ I am experienced in working across various AI domains such as machine learning (
 ## 🚀 My Skills:
 
 ### Programming Languages:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
 ### Machine Learning & Deep Learning:
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-</p>
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=tensorflow)
+
+- **Techniques:** Regression, Classification, Clustering, Dimensionality Reduction, ANN, CNN, RNN, Transfer Learning
+- **Frameworks:** 
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
 
 ### Natural Language Processing:
-<p align="left">
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="nltk" width="40" height="40"/> </a>
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/_src/img/logo.svg" alt="spacy" width="40" height="40"/> </a>
-</p>
+![BERT](https://img.shields.io/badge/-BERT-333?style=flat&logo=bert)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FD2E51?style=flat&logo=huggingface)
+![NLTK](https://img.shields.io/badge/-NLTK-007396?style=flat&logo=python)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy)
 
 ### MLOps:
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/36563129?s=200&v=4" alt="mlflow" width="40" height="40"/> </a>
-  <a href="https://dvc.org/" target="_blank" rel="noreferrer"> <img src="https://dvc.org/static/shared/dvc.svg" alt="dvc" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</p>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow)
+![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=dvc)
 
 ### Data Management:
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://faiss.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/logo/faiss-logo.png" alt="faiss" width="40" height="40"/> </a>
-</p>
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![FAISS](https://img.shields.io/badge/-FAISS-333?style=flat&logo=faiss)
 
 ### Visualization:
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="excel" width="40" height="40"/> </a>
-</p>
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+
+## 📈 My GitHub Stats:
+![Rajendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajendarkatravath&show_icons=true&theme=radical)
+
+## 📊 Languages I Use:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajendarkatravath&layout=compact)
 
 ## 📈 My GitHub Stats:
 ![Rajendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajendarkatravath&show_icons=true&theme=radical)
