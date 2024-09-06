@@ -1,6 +1,6 @@
 # Hi there, I'm Katravath Rajendar 👋 
 
-![Programmer Animation](https://outlane.co/now/new-shot-programmer-animation/)
+![Programmer Animation](https://github.com/Rajendarkatravath/KatravathRajendar/blob/main/programmer.gif)
 
 ## 👨‍💻 About Me:
 I am a passionate AI/ML Engineer with expertise in developing, deploying, and optimizing machine learning and deep learning models, with a focus on NLP and generative AI. Over the years, I have honed my skills in building impactful AI-driven solutions that solve real-world problems, leveraging state-of-the-art techniques and tools. From intelligent document processing to economic forecasting and AI-powered conversational interfaces, my work is driven by a desire to push the boundaries of AI and deliver meaningful, data-driven insights.
