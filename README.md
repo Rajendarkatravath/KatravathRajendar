@@ -11,6 +11,9 @@
         - 📫 How to reach me: <b>katravathrajendar18@gmail.com</b><br>
         - ⚡ Fun fact: I love applying AI to projects that have real-world impact and improve decision-making processes.
       </p>
+      <p style="text-align: center;">
+        <img src="https://komarev.com/ghpvc/?username=Rajendarkatravath&color=blue&style=flat-square" alt="Profile views">
+      </p>
     </td>
     <td>
       <img src="https://github.com/Rajendarkatravath/KatravathRajendar/blob/main/programmer.gif" width="300" />
@@ -92,10 +95,5 @@
 ## 📫 Reach Out:
 - **Email:** katravathrajendar18@gmail.com
 - **LinkedIn:** [Katravath Rajendar](https://www.linkedin.com/in/katravath-rajendar)
-- **GitHub:** [Rajendarkatravath](https://github.com/Rajendarkatravath)
-
-## 👁️ Profile Views:
-![Profile views](https://komarev.com/ghpvc/?username=Rajendarkatravath&color=blue&style=flat-square)
-
-<small>👤 Candidate Name: Katravath Rajendar</
+- **GitHub:** [Rajendarkatravath](https://github.com/Raj
 
