@@ -94,3 +94,8 @@
 - **LinkedIn:** [Katravath Rajendar](https://www.linkedin.com/in/katravath-rajendar)
 - **GitHub:** [Rajendarkatravath](https://github.com/Rajendarkatravath)
 
+## 👁️ Profile Views:
+![Profile views](https://komarev.com/ghpvc/?username=Rajendarkatravath&color=blue&style=flat-square)
+
+<small>👤 Candidate Name: Katravath Rajendar</
+
