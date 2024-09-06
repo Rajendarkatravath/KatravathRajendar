@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <h2>👨‍💻 About Me:</h2>
-      <p>
+      <h2 style="font-family: Arial, sans-serif; font-size: 28px;">👨‍💻 About Me:</h2>
+      <p style="font-family: 'Trebuchet MS', sans-serif; font-size: 18px; line-height: 1.6;">
         I am a passionate AI/ML Engineer with expertise in developing, deploying, and optimizing machine learning and deep learning models, with a focus on NLP and generative AI. Over the years, I have honed my skills in building impactful AI-driven solutions that solve real-world problems, leveraging state-of-the-art techniques and tools. From intelligent document processing to economic forecasting and AI-powered conversational interfaces, my work is driven by a desire to push the boundaries of AI and deliver meaningful, data-driven insights.<br><br>
         I am experienced in working across various AI domains such as machine learning (ML), deep learning (DL), and natural language processing (NLP), as well as generative AI, utilizing frameworks like TensorFlow, Hugging Face, and LangChain. I enjoy collaborating with cross-functional teams to create scalable, efficient AI solutions that can drive better decision-making.<br><br>
         - 🔭 I’m currently working as an AI/ML Engineer at Omdena.<br>
@@ -14,6 +14,9 @@
     </td>
     <td>
       <img src="https://github.com/Rajendarkatravath/KatravathRajendar/blob/main/programmer.gif" width="300" />
+      <p style="text-align: center; font-family: 'Lucida Console', monospace; font-size: 18px; font-style: italic;">
+        "Empowering data-driven decision-making through cutting-edge AI solutions."
+      </p>
     </td>
   </tr>
 </table>
