@@ -1,15 +1,22 @@
 # Hi there, I'm Katravath Rajendar 👋 
 
-![Programmer Animation](https://github.com/Rajendarkatravath/KatravathRajendar/blob/main/programmer.gif)
-
-## 👨‍💻 About Me:
-I am a passionate AI/ML Engineer with expertise in developing, deploying, and optimizing machine learning and deep learning models, with a focus on NLP and generative AI. Over the years, I have honed my skills in building impactful AI-driven solutions that solve real-world problems, leveraging state-of-the-art techniques and tools. From intelligent document processing to economic forecasting and AI-powered conversational interfaces, my work is driven by a desire to push the boundaries of AI and deliver meaningful, data-driven insights.
-
-I am experienced in working across various AI domains such as machine learning (ML), deep learning (DL), and natural language processing (NLP), as well as generative AI, utilizing frameworks like TensorFlow, Hugging Face, and LangChain. I enjoy collaborating with cross-functional teams to create scalable, efficient AI solutions that can drive better decision-making.
-
-- 🔭 I’m currently working as an AI/ML Engineer at Omdena.
-- 📫 How to reach me: **katravathrajendar18@gmail.com**
-- ⚡ Fun fact: I love applying AI to projects that have real-world impact and improve decision-making processes.
+<table>
+  <tr>
+    <td>
+      <h2>👨‍💻 About Me:</h2>
+      <p>
+        I am a passionate AI/ML Engineer with expertise in developing, deploying, and optimizing machine learning and deep learning models, with a focus on NLP and generative AI. Over the years, I have honed my skills in building impactful AI-driven solutions that solve real-world problems, leveraging state-of-the-art techniques and tools. From intelligent document processing to economic forecasting and AI-powered conversational interfaces, my work is driven by a desire to push the boundaries of AI and deliver meaningful, data-driven insights.<br><br>
+        I am experienced in working across various AI domains such as machine learning (ML), deep learning (DL), and natural language processing (NLP), as well as generative AI, utilizing frameworks like TensorFlow, Hugging Face, and LangChain. I enjoy collaborating with cross-functional teams to create scalable, efficient AI solutions that can drive better decision-making.<br><br>
+        - 🔭 I’m currently working as an AI/ML Engineer at Omdena.<br>
+        - 📫 How to reach me: <b>katravathrajendar18@gmail.com</b><br>
+        - ⚡ Fun fact: I love applying AI to projects that have real-world impact and improve decision-making processes.
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/Rajendarkatravath/KatravathRajendar/blob/main/programmer.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 My Skills:
 
@@ -30,6 +37,16 @@ I am experienced in working across various AI domains such as machine learning (
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+
+### LLM Frameworks:
+![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=langchain)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FF6F00?style=flat&logo=llama)
+![Groq](https://img.shields.io/badge/-Groq-333?style=flat&logo=groq)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
+![Gemma](https://img.shields.io/badge/-Gemma-FF6F00?style=flat&logo=gemma)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia)
+![LLaMA](https://img.shields.io/badge/-LLaMA-333?style=flat&logo=llama)
+![Mistral](https://img.shields.io/badge/-Mistral-333?style=flat&logo=mistral)
 
 ### Natural Language Processing:
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9900?style=flat&logo=hugging-face)
