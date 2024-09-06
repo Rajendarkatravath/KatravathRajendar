@@ -15,7 +15,7 @@
     <td>
       <img src="https://github.com/Rajendarkatravath/KatravathRajendar/blob/main/programmer.gif" width="300" />
       <p style="text-align: center; font-family: 'Lucida Console', monospace; font-size: 18px; font-style: italic;">
-        "Empowering data-driven decision-making through cutting-edge AI solutions."
+        <span style="font-weight:bold;">"Code, learn, and innovate – I’m on a mission to push the boundaries of AI, one algorithm at a time.",</span>
       </p>
     </td>
   </tr>
